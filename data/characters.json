@@ -1,0 +1,128 @@
+[
+    {
+        "id" : 0,
+        "name" : "Hughie",
+        "description": "Hughie fra The Boys er en hovedkarakter, der efter en traumatisk begivenhed bliver medlem af en gruppe, der kæmper mod korrupte superhelte. Han repræsenterer almindelige menneskers sårbarhed og frygt i en verden fyldt med overnaturlige kræfter. Hans udvikling spænder fra frygtsom til mere modig, da han tager kampen op mod uretfærdighed sammen med sine kammerater.",
+        "image" : "./images/Hughie.jpg",
+        "show" : "The Boys"
+    },
+    {
+        "id" : 1,
+        "name" : "Tommy Shelby",
+        "description": "Tommy Shelby er hovedpersonen i tv-serien Peaky Blinders. Han er den karismatiske og hensynsløse leder af Shelby-familien, der styrer en kriminel bande i efterkrigstidens Birmingham, England. Med sit skarpe sind og strategiske tankegang navigerer Tommy gennem farlige intriger og magtkampe, alt imens han konfronterer sine egne indre dæmoner. Hans komplekse karakter udstråler en blanding af dyb sårbarhed og uovervindelig styrke, hvilket gør ham til en fascinerende og mindeværdig karakter i serien.",
+        "image" : "./images/TommyShelby.webp",
+        "show" : "Peaky Blinders"
+    },
+    {
+        "id" : 2,
+        "name" : "Homelander",
+        "description": "Homelander er en fiktiv karakter fra serien The Boys. Han er den ledende superhelt og ansigtet for korporationen The Seven. Bag det glatte ydre skjuler han en mørk og manipulerende side, der udnytter sine kræfter uden hensyn til andre. Han er kompleks og farlig, med en spændende blanding af styrke og psykologiske udfordringer.",
+        "image" : "./images/Homelander.webp",
+        "show" : "The Boys"
+    },
+    {
+        "id": 3,
+        "name": "Frodo Baggins",
+        "description": "Frodo Baggins er hovedpersonen i J.R.R. Tolkiens 'Ringenes Herre'. Han er en hobbit, der bliver udvalgt til at bære en kraftfuld ring til Dommedagsbjerget for at ødelægge den. Hans mod og viljestyrke gør ham til en afgørende skikkelse i kampen mod Sauron.",
+        "image": "./images/FrodoBaggins.jpg",
+        "show": "The Lord of the Rings"
+    },
+    {
+        "id" : 4,
+        "name" : "Alfie Solomons",
+        "description": "Alfie Solomons er en markant karakter i tv-serien Peaky Blinders. Han er en klog og manipulerende jødisk gangsterboss med base i Camden Town, London. Med sin eksentriske adfærd og skarpe replikker indgår Alfie i komplekse forretninger med Shelby-familien, hvor han jonglerer mellem alliancer og intriger. Hans skiftende loyaliteter og uforudsigelige natur gør ham til en mindeværdig og gådefuld skikkelse i seriens kriminelle univers.",
+        "image" : "./images/AlfieSolomon.webp",
+        "show" : "Peaky Blinders"
+    },
+    {
+        "id" : 5,
+        "name" : "Frank Castle",
+        "description": "Frank Castle, også kendt som The Punisher, er en ikonisk antihelt i Marvel-universet. Han er en tidligere marine og specielle styrker-veteran, der bliver en brutal vigilante efter mordet på hans familie. Driven af vrede og sorg bekæmper Castle kriminelle på de mest kompromisløse måder, ofte gennem vold og konfrontationer. Hans karakter udforsker komplekse temaer som retfærdighed, hævn og moral i en verden fyldt med mørke skygger.",
+        "image" : "./images/FrankCastle.jpg",
+        "show" : "The Punisher"
+    },
+    {
+        "id": 6,
+        "name": "Darth Vader",
+        "description": "Darth Vader, også kendt som Anakin Skywalker, er en central figur i Star Wars-universet. Han begynder som en lovende Jedi-ridder, men falder til den mørke side og bliver en Sith-lord. Hans ikoniske udseende og dybe stemme gør ham til en frygtet antagonist.",
+        "image": "./images/DarthVader.jpg",
+        "show": "Star Wars"
+    },
+    {
+        "id" : 7,
+        "name" : "Tony Stark",
+        "description": "Tony Stark, kendt som Iron Man, er en central figur i Marvels superhelteunivers. Han er en genial opfinder, milliardær og playboy, der efter at have været kidnappet af terrorister skaber en avanceret kampdragt og bliver Iron Man. Stark kæmper ikke kun mod skurke, men også med sin egen komplekse personlighed og ansvarsbyrde som teknologisk pioner. Hans rejse fra selvisk våbenproducent til selvopofrende superhelt afspejler en dyb karakterudvikling og moralrefleksion gennem Marvel-filmene.",
+        "image" : "./images/TonyStark.jpg",
+        "show" : "Avengers"
+    },
+    {
+        "id" : 8,
+        "name" : "Walter White",
+        "description": "Walter White er hovedkarakteren i tv-serien Breaking Bad. Han er en højt respekteret kemilærer, der efter en kræftdiagnose begynder at producere og sælge methamfetamin for at sikre sin families økonomiske fremtid. Hans transformation fra en mild og tavs mand til den hensynsløse narkobaron Heisenberg udforsker de mørke sider af ambition, magt og moral. Walter White er en kompleks karakter, der skildrer de dybe konsekvenser af valg og handlinger.",
+        "image" : "./images/WalterWhite.jpg",
+        "show" : "Breaking Bad"
+    },
+    {
+        "id": 9,
+        "name": "Gandalf",
+        "description": "Gandalf er en karakter i J.R.R. Tolkiens 'Ringenes Herre'-univers. Han er en vis og magtfuld troldmand, der guider og støtter Frodo og hans følgesvende i deres kamp mod Sauron. Hans magiske evner og visdom er afgørende for deres rejse.",
+        "image": "./images/Gandalf.jpg",
+        "show": "The Lord of the Rings"
+    },
+    {
+        "id" : 10,
+        "name" : "Jesse Pinkman",
+        "description": "Homelander er en fiktiv karakter fra serien The Boys. Han er den ledende superhelt og ansigtet for korporationen The Seven. Bag det glatte ydre skjuler han en mørk og manipulerende side, der udnytter sine kræfter uden hensyn til andre. Han er kompleks og farlig, med en spændende blanding af styrke og psykologiske udfordringer.",
+        "image" : "./images/JessePinkman.webp",
+        "show" : "Breaking Bad"
+    },
+    {
+        "id" : 11,
+        "name" : "Butcher",
+        "description": "Butcher fra The Boys er en hovedperson kendt for sin intense had til superhelte, især medlemmer af The Seven. Han leder gruppen af almindelige mennesker, der forsøger at afsløre og bekæmpe korrupte superhelte. Butcher er drevet af personlig vrede og en beslutsomhed på at bringe dem til ansvar, selv hvis det betyder at bruge ekstreme midler.",
+        "image" : "./images/Butcher.webp",
+        "show" : "The Boys"
+    },
+    {
+        "id": 12,
+        "name": "James Bond",
+        "description": "James Bond, også kendt som Agent 007, er en ikonisk spionfigur i filmserien. Han er en britisk hemmelig agent, der udfører farlige missioner og sporer skurke. Hans sofistikerede stil, teknologiske gadgets og evne til at overvinde enhver hindring er hans kendetegn.",
+        "image": "./images/JamesBond.jpg",
+        "show": "James Bond"
+    },
+    {
+        "id": 13,
+        "name": "Aragorn",
+        "description": "Aragorn er en karakter i J.R.R. Tolkiens 'Ringenes Herre'-univers. Han er en ranger og den sande konge af Gondor. Hans mod og lederskab gør ham til en afgørende skikkelse i kampen mod Sauron.",
+        "image": "./images/Aragorn.webp",
+        "show": "The Lord of the Rings"
+    },
+    {
+        "id": 14,
+        "name": "John Wick",
+        "description": "John Wick er hovedkarakteren i filmserien med samme navn. Han er en tidligere lejemorder, der vender tilbage til en verden af ​​vold efter tabet af sin hund. Hans evner som lejemorder og hensynsløshed over for fjender gør ham til en frygtindgydende figur.",
+        "image": "./images/JohnWick.jpg",
+        "show": "John Wick"
+    },
+    {
+        "id": 15,
+        "name": "Luke Skywalker",
+        "description": "Luke Skywalker er en central figur i Star Wars-universet. Han er en ung bondemand, der bliver trukket ind i kampen mod Galaktiske Imperium og opdager sin skæbne som en Jedi ridder. Hans rejse repræsenterer kampen mellem det gode og det onde.",
+        "image": "./images/LukeSkywalker.webp",
+        "show": "Star Wars"
+    },
+    {
+        "id": 16,
+        "name": "Jack Sparrow",
+        "description": "Captain Jack Sparrow er en charmerende og eksentrisk pirat i Pirates of the Caribbean-serien. Hans uforudsigelige natur og listige måder fører ham gennem farlige eventyr og skattejagter i det åbne hav.",
+        "image": "./images/JackSparrow.webp",
+        "show": "Pirates of the Caribbean"
+    },
+    {
+        "id" : 17,
+        "name" : "Arthur Shelby",
+        "description": "Arthur Shelby er en fremtrædende karakter i tv-serien Peaky Blinders. Han er ældre bror til Tommy Shelby og en vigtig del af Shelby-familien's kriminelle imperium. Arthur er kendt for sin voldsomme natur og er ofte involveret i farlige konfrontationer. Gennem serien kæmper han med indre dæmoner og forsøger at finde sin plads i familiens skæbnebestemte kriminelle aktiviteter. Hans udvikling fra rå vold til mere dybdegående refleksion giver karakteren en kompleksitet, der tilføjer dybde til serien.",
+        "image" : "./images/ArthurShelby.webp",
+        "show" : "Peaky Blinders"
+    }
+]
